@@ -1,7 +1,7 @@
 import os
 import shutil
 from_dir="C:/Users/Mr Kumar/Downloads"
-to_dir="C:/whjr/downloaded_images"
+to_dir="C:/Users/Mr Kumar/downloaded_images"
 
 list_of_files=os.listdir(from_dir)
 for file_name in list_of_files:
